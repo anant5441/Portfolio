@@ -1,6 +1,6 @@
 /*----typed js-----*/ 
 const typed=new Typed('.multiple-text',{
-    strings : ['Frontend Developer','C++ Programmer'],
+    strings : ['AI Enthusiast','C++ Programmer'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
